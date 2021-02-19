@@ -4,12 +4,12 @@
 
 ## Table of Contents 
 
-:elephant:  * General Information
-  * Code Snippet
-  * Technologies
-  * Features
-  * Status
-  * Creators
+:elephant: General Information
+:snake: Code Snippet
+:monkey: Technologies
+:tiger2: Features
+:water_buffalo: Status
+:turtle: Creators
 
 
 
