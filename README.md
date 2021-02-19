@@ -2,7 +2,7 @@
 # Jungle Boogie
 
 
-# Table of Contents 
+## Table of Contents 
 :elephant: General Information
 
 :snake: Code Snippet
