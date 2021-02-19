@@ -32,7 +32,7 @@ Jungle Boogie is a CLI app that allows users to take a safari adventure. Users a
 * see animals 
 * take photo or
 * run away!
-* save photos to phtot album
+* save photos to photo album
 * veiw photo album 
 * delete photos from photo album
 
