@@ -26,19 +26,6 @@ Jungle Boogie is a CLI app that allows users to take a safari adventure. Users a
             log_in
         end
     end
-    
-        def adventure_or_photo
-        system('clear')
-        start = prompt.select("Would you like to view your photos or go exploring", ["Photos", "New Advenutre", "Exit"])
-        if start == "Photos"
-            view_photos
-        elsif start == "New Advenutre"
-            adventure_1
-        else
-            puts "See you next time!"
-            system('exit')
-        end
-    end
 
 
 
