@@ -3,7 +3,7 @@
 
 
 # Table of Contents 
-:elephant: [General Information](#General Information)
+:elephant: General Information
 
 :snake: Code Snippet
 
