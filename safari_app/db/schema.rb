@@ -10,10 +10,11 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_02_17_162631) do
+ActiveRecord::Schema.define(version: 2021_02_18_194116) do
 
   create_table "animals", force: :cascade do |t|
     t.string "name"
+    t.string "emoji"
   end
 
   create_table "photos", force: :cascade do |t|
