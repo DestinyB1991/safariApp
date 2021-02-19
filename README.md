@@ -16,15 +16,6 @@
 
 Jungle Boogie is a CLI app that allows users to take a safari adventure. Users are able to see animals on the safari and choose to either take a picture of that animal or continue on the safari. Users will also have a photo album to either view or delete saved photos from. Let the adventures begin!
 
-##C Code Snippet
->   def welcome
-        returning = prompt.select("Are you a new explorer?", ["New Explorer", "Returning Adventurer"])
-        if returning == "New Explorer" 
-            sign_up
-        else 
-            log_in
-        end
-    end
 
 ## Technologies 
 * Ruby
