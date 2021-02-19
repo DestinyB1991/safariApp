@@ -19,7 +19,7 @@
 
   ## General Information
 
-Jungle Boogie is a CLI app that allows users to take a safari adventure. Users are able to see animals on the safari and choose to either take a picture of that animal or continue on the safari. Users will also have a photo album to either view or delete saved photos from. Let the adventures begin!
+Jungle Boogie is a CLI app that allows users to take an amazing safari adventure! Users are able to see animals on the safari and choose to either take a picture of that animal or continue on. Users will also have a photo album to either view or delete saved photos. Let the adventures begin!
 
 ## Code Snippet 
     def welcome
