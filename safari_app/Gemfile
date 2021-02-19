@@ -11,3 +11,9 @@ gem "sqlite3"
 gem "require_all"
 
 gem "tty-prompt", "~> 0.23.0"
+
+gem "artii", "~> 2.1"
+
+gem "ruby2d", "~> 0.9.5"
+
+gem "tty-progressbar", "~> 0.18.1"

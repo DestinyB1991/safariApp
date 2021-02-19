@@ -1,6 +1,7 @@
 require_relative 'config/environment'
 
 # Cli.new.start_game
-
-welcome
-
+cli = CLI.new
+# binding.pry
+cli.hero
+cli.welcome
