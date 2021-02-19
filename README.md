@@ -1,2 +1,45 @@
-# safariApp
-Safari photo game
+
+# Jungle Boogie
+
+
+## Table of Contents 
+
+  * General Information
+  * Technologies
+  * Features
+  * Status
+  * Creators
+
+
+
+  ## General Information
+
+Jungle Boogie is a CLI app that allows users to take a safari adventure. Users are able to see and take photos of animals on the safari and choose to take a picture of that animal or continue on the safari. Users will also have a photo album to either view or delete saved photos from. Let the adventures begin!
+
+## Technologies 
+* Ruby
+* ActiveRecord
+* Sinatra-ActiveRecord
+* sqlite3
+* tty-prompt
+
+
+## Features
+
+* sign up as new user
+* log in as returning user
+* start a new adventure
+* see animals 
+* take photo or
+* run away!
+* save photos to phtot album
+* veiw photo album 
+* delete photos from photo album
+
+## Status 
+
+Finished with options to expand on detail and functionality.
+
+## Creators 
+
+Phil Haines & Destiny Boling
