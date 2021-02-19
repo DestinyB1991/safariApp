@@ -1,6 +1,6 @@
 
 # Jungle Boogie
-![alt text](jungle pic.png "Jungle Pic")
+![alt text](jungle pic.jpg "Jungle Pic")
 
 
 ## Table of Contents 
