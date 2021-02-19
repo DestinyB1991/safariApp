@@ -4,7 +4,7 @@
 
 ## Table of Contents 
 
-  * General Information
+:elephant:  * General Information
   * Code Snippet
   * Technologies
   * Features
