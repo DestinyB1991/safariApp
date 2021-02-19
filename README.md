@@ -4,7 +4,7 @@
 
 ## Table of Contents 
 
-:elephant: General Information
+:elephant: [General Information](#General Information)
 
 :snake: Code Snippet
 
