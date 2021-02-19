@@ -41,5 +41,4 @@ Jungle Boogie is a CLI app that allows users to take a safari adventure. Users a
 Finished with options to expand on detail and functionality.
 
 ## Creators 
-
-Phil Haines & Destiny Boling
+[Phil Haines!](hhttps://www.linkedin.com/in/philip-haines/) & Destiny Boling
